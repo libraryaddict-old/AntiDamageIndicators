@@ -1,0 +1,5 @@
+name: AntiDamageIndicators
+main: me.libraryaddict.Anti.DamageIndicators
+author: libraryaddict
+version: 1.3
+depend: [ProtocolLib]
